@@ -38,7 +38,7 @@ When I’m not coding for class or projects, I’m probably building a game, exp
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vQX4Q7fFq2w/giphy.gif" width="200" alt="Minimalistic Animation">
+  <img src="C:\Users\gosha\Downloads\Gemini_Generated_Image_slhefhslhefhslhe.png" width="200" alt="Minimalistic Animation">
 </p>
 
 ---
