@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="Gemini_Generated_Image_slhefhslhefhslhe.png" width="200" alt="Profile Image" />
+</div>
+
 # 👋 Hi, I'm Goshan JB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Goshan%20JB-blue?logo=linkedin)](https://www.linkedin.com/in/goshan-jb-aaba441b8/)
@@ -34,12 +38,6 @@
 ### 🎮 Fun Fact
 
 When I’m not coding for class or projects, I’m probably building a game, experimenting with VR worlds, or trying out new tech for fun!
-
----
-
-<p align="center">
-  <img src="C:\Users\gosha\Downloads\Gemini_Generated_Image_slhefhslhefhslhe.png" width="200" alt="Minimalistic Animation">
-</p>
 
 ---
 
