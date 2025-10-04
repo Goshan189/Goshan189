@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="Gemini_Generated_Image_slhefhslhefhslhe.png" width="1600px" alt="Profile Image" />
+  <img src="Gemini_Generated_Image_slhefhslhefhslhe.png" width="1600px" length="500px" alt="Profile Image" />
 </div>
 
 # 👋 Hi, I'm Goshan JB
